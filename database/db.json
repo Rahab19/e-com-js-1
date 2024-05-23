@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "014a",
+      "username": "ann",
+      "email": "ann@gmail.com",
+      "password": "rtuuiomkk"
+    },
+    {
+      "id": "52a5",
+      "username": "rahab",
+      "email": "rahab@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "7f68",
+      "username": "wesleyi",
+      "email": "gatibamuchina@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "0ea1",
+      "username": "kelvin",
+      "email": "waweru475@gmail.com",
+      "password": "12345678"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "014a",
+      "name": "product 1",
+      "price": 10,
+      "quantity": 5,
+      "image":"images/pillow1.jpg"
+    }
+  ],
+  
+  "checkout":[
+    {
+      
+    }
+  ],
+
+  "cart":[
+    {
+      "id":"1",
+      "name":"Product 1",
+      "price":10,
+      "quantity":5,
+      "image":"images/pillow1.jpg"
+    }
+  ]
+
+
+}
